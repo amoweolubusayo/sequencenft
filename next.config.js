@@ -8,6 +8,7 @@ const nextConfig = {
       "imgur.com",
       "plus.unsplash.com",
       "i.imgur.com",
+      "ipfs.sequence.info"
     ],
   },
 }
